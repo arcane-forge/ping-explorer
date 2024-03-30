@@ -2,7 +2,7 @@
     "chain_name": "namada",
     "registry_name": "namada",
     "api": [
-        {"provider": "informal", "address": "https://api-cosmoshub-ia.cosmosia.notional.ventures"},
+        {"provider": "informal", "address": "https://api-cosmoshub-ia.cosmosia.notional.ventures"}
     ],
     "rpc": [
         {"provider": "icycro", "address": "http://https://informal.namadarpc.top:26657"}
