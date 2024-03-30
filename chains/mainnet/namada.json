@@ -1,0 +1,22 @@
+{
+    "chain_name": "namada",
+    "api": [
+        {"provider": "Informal Systems", "address": "http://informal.namadarpc.top:1317"}
+    ],
+    "rpc": [
+        {"provider": "Informal Systems", "address": "http://informal.namadarpc.top:26777"}
+    ],
+    "sdk_version": "0.50.2",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "assets": [{
+        "base": "NAAN",
+        "symbol": "NAAN",
+        "exponent": "6",
+        "coingecko_id": "qwoyn",
+        "logo": "/logos/qwoyn.svg"
+    }],
+    "addr_prefix": "tnam",
+    "theme_color": "#161723",
+    "logo": "/logos/neutron.svg"
+}
