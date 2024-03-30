@@ -1,7 +1,7 @@
 {
     "chain_name": "namada",
     "api": [
-        {"provider": "Informal Systems", "address": "https://rest-api.suntzu.dev"}
+        {"provider": "Informal Systems", "address": "https://rest-api.suntzu.dev:443"}
     ],
     "rpc": [
         {"provider": "Informal Systems", "address": "http://informal.namadarpc.top:26777"}
