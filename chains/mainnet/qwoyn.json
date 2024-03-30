@@ -1,0 +1,24 @@
+{
+    "chain_name": "qwoyn",
+    "registry_name": "qwoyn",
+    "api": [
+        {"provider": "Qwoyn Studios", "address": "https://api.qwoyn.studio"}
+    ],
+    "rpc": [
+        {"provider": "Polkachu", "address": "https://rpc.qwoyn.studio"}
+    ],
+    "features": ["dashboard", "blocks", "ibc", "cosmwasm", "uptime", "parameters", "state-sync", "consensus", "supply", "widget"],
+    "sdk_version": "0.47.8",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "assets": [{
+        "base": "uqwoyn",
+        "symbol": "QWOYN",
+        "exponent": "6",
+        "coingecko_id": "qwoyn",
+        "logo": "/logos/qwoyn.svg"
+    }],
+    "addr_prefix": "qwoyn",
+    "theme_color": "#161723",
+    "logo": "/logos/neutron.svg"
+}
