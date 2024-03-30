@@ -4,7 +4,7 @@
         {"provider": "Informal Systems", "address": "http://informal.namadarpc.top:1317"}
     ],
     "rpc": [
-        {"provider": "Informal Systems", "address": "http://informal.namadarpc.top:26777"}
+        {"provider": "Informal Systems", "address": "https://api.namada.info"}
     ],
     "sdk_version": "0.50.2",
     "coin_type": "118",
