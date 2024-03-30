@@ -13,10 +13,9 @@
         "base": "NAAN",
         "symbol": "NAAN",
         "exponent": "6",
-        "coingecko_id": "qwoyn",
-        "logo": "/logos/qwoyn.svg"
+        "logo": "/logos/namada.svg"
     }],
     "addr_prefix": "tnam",
     "theme_color": "#161723",
-    "logo": "/logos/neutron.svg"
+    "logo": "/logos/namada.svg"
 }

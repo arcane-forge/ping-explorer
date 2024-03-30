@@ -5,9 +5,9 @@
         {"provider": "Qwoyn Studios", "address": "https://api.qwoyn.studio"}
     ],
     "rpc": [
-        {"provider": "Polkachu", "address": "https://rpc.qwoyn.studio"}
+        {"provider": "Qwoyn Studios", "address": "https://rpc.qwoyn.studio"}
     ],
-    "features": ["dashboard", "governance", "blocks", "ibc", "cosmwasm", "uptime", "parameters", "state-sync", "consensus", "supply", "widget"],
+    "features": ["dashboard", "governance", "blocks", "ibc", "cosmwasm", "uptime", "parameters", "consensus", "supply", "widget"],
     "sdk_version": "0.47.8",
     "coin_type": "118",
     "min_tx_fee": "8000",
@@ -20,5 +20,5 @@
     }],
     "addr_prefix": "qwoyn",
     "theme_color": "#161723",
-    "logo": "/logos/neutron.svg"
+    "logo": "/logos/qwoyn.svg"
 }
