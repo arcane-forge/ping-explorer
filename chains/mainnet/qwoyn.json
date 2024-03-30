@@ -16,9 +16,9 @@
         "symbol": "QWOYN",
         "exponent": "6",
         "coingecko_id": "qwoyn",
-        "logo": "/logos/qwoyn.svg"
+        "logo": "./logos/qwoyn.svg"
     }],
     "addr_prefix": "qwoyn",
     "theme_color": "#161723",
-    "logo": "/logos/qwoyn.svg"
+    "logo": "./logos/qwoyn.svg"
 }
